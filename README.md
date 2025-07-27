@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFFF&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Pranav+Balaji+R+S;AI+Explorer+%7C+GenAI+Engineer+%7C+Creative+Technophile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFFF&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Pranav+Balaji+R+S;AI+Explorer+%7C+GenAI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
